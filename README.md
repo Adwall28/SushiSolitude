@@ -4,5 +4,8 @@ This is an experience I made for my Coursework 2 Assignment. It's not very good,
 
 ![SushiSolitude](https://github.com/Adwall28/SushiSolitude/assets/98455674/eac7d582-fb3b-49a9-98b4-46953ccde3f9)
 
+Github Link:
 https://github.com/Adwall28/SushiSolitude
+
+YouTube Video Link:
 https://www.youtube.com/watch?v=CfVWBx6mWWk
